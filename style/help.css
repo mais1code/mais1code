@@ -1,0 +1,34 @@
+.help {
+  position: relative;
+  width: 100%;
+  height: 473px;
+}
+
+.help-text1 {
+  position: absolute;
+  top: 155px;
+  left: 309px;
+  color: var(--purple);
+}
+
+.help-text2 {
+  position: absolute;
+  width: 600px;
+  left: 241px;
+  top: 238px;
+  line-height: 27px;
+}
+
+.help-image-student {
+  position: absolute;
+  width: 300px;
+  left: 880px;
+  top: 120px;
+  height: 350px;
+}
+
+.help-last-banner {
+  background-color: var(--purple);
+  widows: 100%;
+  height: 300px;
+}
