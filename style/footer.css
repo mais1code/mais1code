@@ -1,0 +1,94 @@
+.footer-contact {
+  position: relative;
+  height: 270px;
+  width: 100%;
+  background-color: var(--purple);
+  margin-top: -4px;
+  display: flex;
+}
+
+.footer-mais1cdimg {
+  padding-left: 96px;
+  padding-top: 37px;
+}
+
+.footer-final-contact {
+  margin-top: 53px;
+  margin-left: 273px;
+}
+
+.footer-txt-final {
+  font-size: 18px;
+  color: var(--white);
+}
+
+.footer-mail {
+  margin-left: 71px;
+  margin-top: 35px;
+}
+
+.footer-waiting {
+  color: var(--white);
+}
+
+.footer-waiting-orange {
+  color: var(--orange);
+}
+
+.footer-final-button {
+  margin-left: 46px;
+  margin-top: 55px;
+}
+
+.footer-final-btn {
+  font-size: 12px;
+  line-height: 16px;
+  border-radius: 60px;
+  padding: 16px 39px;
+  text-decoration: none;
+  color: var(--white);
+  background: var(--orange);
+}
+
+.footer-line {
+  position: absolute;
+  top: 122px;
+  left: 94px
+}
+
+.footer-line-work {
+  width: 1175px
+}
+
+.footer-click {
+  display: flex;
+  position: absolute;
+  top: 201px;
+  left: 113px;
+}
+
+.footer-final {
+  color: var(--white);
+  margin-right: 79px;
+  font-size: 15px;
+}
+
+.footer {
+  display: flex;
+  width: 100%;
+  height: 73px;
+  padding-left: 66px;
+}
+
+.footer-icons {
+  margin-left: 36px;
+  width: 23px;
+  height: 23px;
+  margin-top: 29px;
+}
+
+.footer-txt {
+  font-size: 12px;
+  margin-left: 559px;
+  margin-top: 29px;
+}

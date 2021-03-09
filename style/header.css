@@ -1,0 +1,98 @@
+.header {
+  background-color: var(--purple);
+  height: 672px;
+  width: 100%;
+}
+
+.navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  height: 133px;
+  width: 100%;
+  padding: 44px 66px;
+}
+
+.navbar-btn a,
+.introduction-btn a {
+  color: var(--white);
+  font-size: 14px;
+  line-height: 16px;
+  height: 46.51px;
+  width: 175.3px;
+  border-radius: 60px;
+  padding: 25px 69px;
+  text-decoration: none;
+}
+
+.introduction {
+  display: flex;
+  height: 539px;
+  margin-left: 10%;
+  position: relative;
+}
+
+.transform-text {
+  color: var(--gray);
+  font-size: 46px;
+  margin-bottom: 61px;
+  width: 414px;
+}
+
+.introduction-link {
+  color: var(--white);
+  margin-left: 12px;
+}
+
+.box-images img {
+  position: absolute;
+}
+
+.background1 {
+  height: 389px;
+  bottom: 0;
+  right: 0;
+  top: 149px;
+  width: 453px;
+  z-index: 0;
+}
+
+.background2 {
+  height: 152px;
+  top: 62px;
+  left: 675px;
+  width: 267px;
+  z-index: 1;
+}
+
+.backgroundhtml {
+  top: 363px;
+  right: 417px;
+}
+
+.backgroundjs {
+  top: 196px;
+  right: 406px;
+  z-index: 2;
+}
+
+.backgroundreact {
+  top: 23px;
+  right: 80px;
+  width: 74px;
+  height: 68px;
+}
+
+.backgroundangular {
+  height: 75px;
+  top: 119px;
+  right: 0px;
+  width: 70px;
+  z-index: 3;
+}
+
+.backgroundcss {
+  top: 84px;
+  right: 162px;
+  z-index: 4;
+}

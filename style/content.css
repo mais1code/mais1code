@@ -1,0 +1,55 @@
+.content {
+  position: relative;
+  width: 100%;
+  height: 251px;
+  background: var(--blue);
+  margin-top: 80px;
+}
+
+.banner {
+  width: 100%;
+}
+
+.frame {
+  width: 229px;
+  height: 244px;
+}
+
+.program {
+  top: -105px;
+  position: absolute;
+  left: 93px
+}
+
+.database {
+  top: -118px;
+  position: absolute;
+  left: 337px;
+  height: 236px;
+}
+
+.design {
+  position: absolute;
+  top: 87px;
+  left: 271px;
+  height: 236px;
+}
+
+.business {
+  position: absolute;
+  left: 493px;
+  top: 82px;
+}
+
+.txt-banner {
+  position: absolute;
+  left: 870px;
+  top: 50px;
+  color: var(--purple);
+}
+
+.txt-banner2 {
+  position: absolute;
+  top: 116px;
+  left: 870px;
+}

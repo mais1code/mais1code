@@ -1,0 +1,33 @@
+.btn-orange {
+  background: var(--orange);
+  margin-right: 18px;
+}
+
+.btn-default {
+  background: transparent;
+  border: 1px solid var(--gray);
+}
+
+.btn-mentor {
+  color: var(--orange) !important;
+  font-weight: bold;
+  padding: 20px 8px !important;
+}
+
+.btn-purp {
+  position: absolute;
+  top: 395px;
+  left: 474px;
+}
+
+.btn-purple {
+  background: var(--purple);
+  font-size: 14px;
+  line-height: 16px;
+  height: 46.51px;
+  width: 175.3px;
+  border-radius: 60px;
+  padding: 25px 69px;
+  text-decoration: none;
+  color: var(--white);
+}
