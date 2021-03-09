@@ -22,8 +22,8 @@
 
 .btn-purple {
   background: var(--purple);
-  font-size: 14px;
-  line-height: 16px;
+  font-size: var(--font14);
+  line-height: var(--lh16);
   height: 46.51px;
   width: 175.3px;
   border-radius: 60px;

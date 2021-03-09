@@ -41,8 +41,8 @@
 }
 
 .footer-final-btn {
-  font-size: 12px;
-  line-height: 16px;
+  font-size: var(--font12);
+  line-height: var(--lh16);
   border-radius: 60px;
   padding: 16px 39px;
   text-decoration: none;
@@ -88,7 +88,7 @@
 }
 
 .footer-txt {
-  font-size: 12px;
+  font-size: var(--font12);
   margin-left: 559px;
   margin-top: 29px;
 }
