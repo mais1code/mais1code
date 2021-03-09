@@ -15,7 +15,7 @@
 
 .navbar-btn a,
 .introduction-btn a {
-  color: rgb(255, 255, 255);
+  color: var(--white);
   font-size: 14px;
   line-height: 16px;
   height: 46.51px;

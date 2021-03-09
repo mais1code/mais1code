@@ -21,7 +21,7 @@
 }
 
 .btn-purple {
-  background: #6533E2;
+  background: var(--purple);
   font-size: 14px;
   line-height: 16px;
   height: 46.51px;
